@@ -12,6 +12,7 @@ int main(int argc, char *argv[]){
     int f=(int)(a/5);
     a=a%5;
     int o=(int)a;
+    cout<<"change"<<endl;
     cout<<(h+tw+t+f+o)<<endl;
     return 0;
 }
